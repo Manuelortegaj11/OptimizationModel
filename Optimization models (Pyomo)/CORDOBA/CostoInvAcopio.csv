@@ -1,73 +1,73 @@
-﻿P;J;T;CostoInvAcopio
-1;1;1;450
-1;1;2;450
-1;1;3;450
-1;1;4;450
-1;1;5;450
-1;1;6;450
-1;1;7;450
-1;1;8;450
-1;1;9;450
-1;1;10;450
-1;1;11;450
-1;1;12;450
-1;2;1;500
-1;2;2;500
-1;2;3;500
-1;2;4;500
-1;2;5;500
-1;2;6;500
-1;2;7;500
-1;2;8;500
-1;2;9;500
-1;2;10;500
-1;2;11;500
-1;2;12;500
-1;3;1;550
-1;3;2;550
-1;3;3;550
-1;3;4;550
-1;3;5;550
-1;3;6;550
-1;3;7;550
-1;3;8;550
-1;3;9;550
-1;3;10;550
-1;3;11;550
-1;3;12;550
-2;1;1;450
-2;1;2;450
-2;1;3;450
-2;1;4;450
-2;1;5;450
-2;1;6;450
-2;1;7;450
-2;1;8;450
-2;1;9;450
-2;1;10;450
-2;1;11;450
-2;1;12;450
-2;2;1;500
-2;2;2;500
-2;2;3;500
-2;2;4;500
-2;2;5;500
-2;2;6;500
-2;2;7;500
-2;2;8;500
-2;2;9;500
-2;2;10;500
-2;2;11;500
-2;2;12;500
-2;3;1;550
-2;3;2;550
-2;3;3;550
-2;3;4;550
-2;3;5;550
-2;3;6;550
-2;3;7;550
-2;3;8;550
-2;3;9;550
-2;3;10;550
-2;3;11;550
-2;3;12;550
+﻿Productos;CAcopios;Tiempo;CostoInvAcopio
+Queso duro;COSTAÑERA;Enero;450
+Queso duro;COSTAÑERA;Febrero;450
+Queso duro;COSTAÑERA;Marzo;450
+Queso duro;COSTAÑERA;Abril;450
+Queso duro;COSTAÑERA;Mayo;450
+Queso duro;COSTAÑERA;Junio;450
+Queso duro;COSTAÑERA;Julio;450
+Queso duro;COSTAÑERA;Agosto;450
+Queso duro;COSTAÑERA;Septiembre;450
+Queso duro;COSTAÑERA;Octubre;450
+Queso duro;COSTAÑERA;Noviembre;450
+Queso duro;COSTAÑERA;Diciembre;450
+Queso duro;SABANAS;Enero;500
+Queso duro;SABANAS;Febrero;500
+Queso duro;SABANAS;Marzo;500
+Queso duro;SABANAS;Abril;500
+Queso duro;SABANAS;Mayo;500
+Queso duro;SABANAS;Junio;500
+Queso duro;SABANAS;Julio;500
+Queso duro;SABANAS;Agosto;500
+Queso duro;SABANAS;Septiembre;500
+Queso duro;SABANAS;Octubre;500
+Queso duro;SABANAS;Noviembre;500
+Queso duro;SABANAS;Diciembre;500
+Queso duro;SAN JORGE;Enero;550
+Queso duro;SAN JORGE;Febrero;550
+Queso duro;SAN JORGE;Marzo;550
+Queso duro;SAN JORGE;Abril;550
+Queso duro;SAN JORGE;Mayo;550
+Queso duro;SAN JORGE;Junio;550
+Queso duro;SAN JORGE;Julio;550
+Queso duro;SAN JORGE;Agosto;550
+Queso duro;SAN JORGE;Septiembre;550
+Queso duro;SAN JORGE;Octubre;550
+Queso duro;SAN JORGE;Noviembre;550
+Queso duro;COSTAÑERA;Diciembre;550
+Queso blando;COSTAÑERA;Enero;450
+Queso blando;COSTAÑERA;Febrero;450
+Queso blando;COSTAÑERA;Marzo;450
+Queso blando;COSTAÑERA;Abril;450
+Queso blando;COSTAÑERA;Mayo;450
+Queso blando;COSTAÑERA;Junio;450
+Queso blando;COSTAÑERA;Julio;450
+Queso blando;COSTAÑERA;Agosto;450
+Queso blando;COSTAÑERA;Septiembre;450
+Queso blando;COSTAÑERA;Octubre;450
+Queso blando;COSTAÑERA;Noviembre;450
+Queso blando;SABANAS;Diciembre;450
+Queso blando;SABANAS;Enero;500
+Queso blando;SABANAS;Febrero;500
+Queso blando;SABANAS;Marzo;500
+Queso blando;SABANAS;Abril;500
+Queso blando;SABANAS;Mayo;500
+Queso blando;SABANAS;Junio;500
+Queso blando;SABANAS;Julio;500
+Queso blando;SABANAS;Agosto;500
+Queso blando;SABANAS;Septiembre;500
+Queso blando;SABANAS;Octubre;500
+Queso blando;SABANAS;Noviembre;500
+Queso blando;SAN JORGE;Diciembre;500
+Queso blando;SAN JORGE;Enero;550
+Queso blando;SAN JORGE;Febrero;550
+Queso blando;SAN JORGE;Marzo;550
+Queso blando;SAN JORGE;Abril;550
+Queso blando;SAN JORGE;Mayo;550
+Queso blando;SAN JORGE;Junio;550
+Queso blando;SAN JORGE;Julio;550
+Queso blando;SAN JORGE;Agosto;550
+Queso blando;SAN JORGE;Septiembre;550
+Queso blando;SAN JORGE;Octubre;550
+Queso blando;SAN JORGE;Noviembre;550
+Queso blando;3;Diciembre;550
